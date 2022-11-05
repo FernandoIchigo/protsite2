@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "63654e7f1e00bf5ed865f76d"
+  },
+  "Nome_Destino": "Salvador",
+  "Promoção": false,
+  "Quantidade": 2
+},{
+  "_id": {
+    "$oid": "6365580b1e00bf5ed865f779"
+  },
+  "Nome_Destino": "São Paulo",
+  "Promoção": false,
+  "Quantidade": 2
+},{
+  "_id": {
+    "$oid": "6365584d1e00bf5ed865f77b"
+  },
+  "Nome_Destino": "Brasilia",
+  "Promoção": false,
+  "Quantidade": 2
+},{
+  "_id": {
+    "$oid": "636558831e00bf5ed865f77d"
+  },
+  "Nome_Destino": "Vitoria",
+  "Promoção": false,
+  "Quantidade": 2
+},{
+  "_id": {
+    "$oid": "6365589e1e00bf5ed865f77f"
+  },
+  "Nome_Destino": "Rio de Janeiro",
+  "Promoção": false,
+  "Quantidade": 2
+}]

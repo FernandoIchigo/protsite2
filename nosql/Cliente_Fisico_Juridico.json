@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "636550a61e00bf5ed865f771"
+  },
+  "nome": "bruno",
+  "Endereço": "Rua pedritas 309 RJ",
+  "Telefone": "21-0098-9877",
+  "CPF": "456.675.868.09"
+},{
+  "_id": {
+    "$oid": "636551661e00bf5ed865f774"
+  },
+  "nome": "Guilherme",
+  "Endereço": "Rua dos guerreiros 56 SP",
+  "Telefone": "21-0034-9868",
+  "CNPJ": "14.675.868/0001-12"
+}]
